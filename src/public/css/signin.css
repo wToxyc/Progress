@@ -1,0 +1,16 @@
+body {
+    background-image: linear-gradient(to right, #020D1B 45%, #05172D 55%);
+}
+
+.social-medias {
+    left: 41.9%;
+}
+
+.illustration {
+    width: auto;
+    height: auto;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 25%;
+}
